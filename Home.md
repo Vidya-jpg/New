@@ -1,3 +1,4 @@
+# Socialcde4eclipse wiki
 
 ## Server installation and howto's
 
