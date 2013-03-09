@@ -1,4 +1,4 @@
-Before starting note that if you want to update SocialTFS Proxy Server without losing stored data you must follow the guide **How to update SocialTFS Proxy Server**.
+Before starting note that if you want to update SocialTFS Proxy Server without losing stored data you must follow the guide [How to update SocialTFS Proxy Server](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-update-SocialTFS-Proxy-Server).
 To install the SocialTFS Proxy Server, download the last version of SocialTFS from http://socialtfs.codeplex.com/releases and unzip the package.
 The Proxy Server is in the file SocialTFSProxyServer.zip.
 
