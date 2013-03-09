@@ -1,1 +1,0 @@
-Welcome to the socialcde4eclipse wiki!
