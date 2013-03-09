@@ -20,12 +20,12 @@ Now you need to run IIS Manager. If you don't find IIS Manager application, then
 ![Windows control panel - Add features](http://i3.codeplex.com/Download?ProjectName=socialtfs&DownloadId=463175)
 
 In the Windows Features dialog box, click Internet Information Services to install the default features, and then select the following additional features:
-            * ASP.NET
-            * .NET Extensibility
-            * Request Filtering
-            * ISAPI
-            * ISAPI Extensions
-            * Server Side Includes
+* ASP.NET
+* .NET Extensibility
+* Request Filtering
+* ISAPI
+* ISAPI Extensions
+* Server Side Includes
 
 In case of further doubts, this is a screenshot of one our IIS setup for a typical SocialTFS installation.
 
@@ -86,13 +86,13 @@ If browsing the web site gives you a HTTP Error 404.17, then you have to enable 
 
 If browsing the web site gives you a HTTP Error 404.2 – Not Found, then you have to go to IIS Manager and properly set the ISAPI and CGI Restrictions for .NET 4.0 applications. To do this, follow these steps:
 
-    * Click Start, type Inetmgr in the Start Search box, and then click Inetmgr in the Programs list. 
+* Click Start, type Inetmgr in the Start Search box, and then click Inetmgr in the Programs list. 
 
 If you are prompted for an administrator password or for confirmation, type the password, or click Continue.
 
-    * Select the server name in the Connections tree view.
-    * In Features view, double-click ISAPI and CGI Restrictions.
-    * Right-click the restriction that restricts the requested ISAPI resource or the requested CGI resource, and then click Allow (.NET 4 application in our case). 
+* Select the server name in the Connections tree view.
+* In Features view, double-click ISAPI and CGI Restrictions.
+* Right-click the restriction that restricts the requested ISAPI resource or the requested CGI resource, and then click Allow (.NET 4 application in our case). 
 
 
 **Note**: If you want to uninstall the proxy server you need to delete the site, the application pool and the database. The first two operations are performed via the IIS Manager, while the third should be done using a tool such as SQL Server Management Studio.
