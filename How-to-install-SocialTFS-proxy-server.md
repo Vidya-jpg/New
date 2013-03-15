@@ -61,7 +61,7 @@ On the first page of the wizard enter the path to the file SocialTfsProxyServer.
 
 The second page of the wizard shows the contents of the package. Make sure that everything is selected except UpdateScript.sql and go to the next page.
 
-**(Image missing)**
+![IIS - Import Application Wizard - Page 2](http://i3.codeplex.com/Download?ProjectName=socialtfs&DownloadId=638517)
 
 On the third page of the wizard enter the path to the application (it is preferable to leave it blank). Please, do not change the database connection strings: the first will be used to create a database (SocialTFS) and a SQL Server user (SocialTFS) owner of that database; the second will be used by the Proxy Server to connect to the database. We strongly recommend to change the database connection password by following the guide [How to change connection password after SocialTFS Proxy Server installation](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-change-connection-password-after-SocialTFS-Proxy-Server-installation).
 
