@@ -29,10 +29,13 @@ _[user]_ <br/>
 If you don’t find them, just copy and paste the previous lines at the end of file. Remember to enter the same credentials used on GitHub.
 
 ## Plugin installation
-To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `plugins/` within your installation directory. If you don’t find this folder, please control the version of your IDE of choice. After moving the jar, run the IDE and, once it has started, enable the plugin by selecting the menu _Windows -> Show view -> Others -> SocialCDE for Eclipse -> SocialCDE4Eclipse_
+To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `plugins/` within your installation directory. 
+If you don’t find this folder, please control the version of your IDE of choice. After moving the jar, run the IDE and, once it has started, enable the plugin by selecting the menu _Windows -> Show view -> Others -> SocialCDE for Eclipse -> SocialCDE4Eclipse_
+
 The plugin is composed by two views:
-•	SocialCDE4Eclipse
-•	SocialCDE4Eclipse Browser
+* SocialCDE4Eclipse
+* SocialCDE4Eclipse Browser
+
 The first view is the main view of the plug-in, while the second one was created to manage the authentication procedure in social network accounts through the OAuth protocol (it opens up automatically, when needed).
 If you are using Linux as OS and have experience issues with “SocialCDE4Eclipse Browser” view, please make sure that your system matches all the requirements listed on the following page:
 http://www.eclipse.org/swt/faq.php#browserlinux
