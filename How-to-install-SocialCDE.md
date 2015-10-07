@@ -1,13 +1,9 @@
-This plugin requires Eclipse 3.7 (Indigo) or later, or Aptana studio 3, with Java 7+ already installed.
-If you want to use Aptana IDE, you need to disable the built-in JRE (ver. 6) included by default in Aptana. This is necessary because the plugin only works with JRE 7+. To disable the built-in JRE: <br/>
-1. Go to Aptana folder and find jre folder. Note that the standard path for Aptana folder is _C:\Users\ &lt;user account&gt;\AppData\Local\Aptana Studio 3_. <br/>
-2. Rename the _jre_ folder to _jre6_ or anything else different from the default name.
-Now, Aptana will use the system default JRE 7 installed on your OS. 
+This plugin requires Eclipse 3.7 (Indigo) and later, or Aptana studio 3+, with Java 7+ already installed.
 
 To add SocialCDEforEclipse plug-in for Eclipse IDE, you have the following two choices:
 
-1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide.
-2. If you have not received an email from the administrator, please download the last version of SocialTFS (client and server) from http://socialtfs.codeplex.com/releases and unzip the package. The client is in the file _SocialCDEforEclipse&ltversion&gt .jar.
+1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
+2. If you have not received an email from the administrator, please download the last version of the plugin (a .jar file) from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
 
 SocialCDEforEclipse works with GitHub repositories, so you need to have git installed on your box. First of all, make sure that you have set correctly the credentials of git. The credentials must match those of your GitHub account. If they are not the same, the plug-in will not work properly. 
 
@@ -33,7 +29,7 @@ _[user]_ <br/>
 If you don’t find them, just copy and paste the previous lines at the end of file. Remember to enter the same credentials used on GitHub.
 
 ## Plugin installation
-To add SocialCDEforEclipse to Eclipse or Aptana make sure that you have “dropins” folder in main directory. If you don’t find this folder, please control the version of your IDE of choice. Then, move the SocialCDEforEclipse jar file into the folder before running the IDE. Once the IDE has started, to enable the plugin select the menu _Windows -> Show view -> Others -> SocialCDE for Eclipse -> SocialCDE4Eclipse_
+To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `plugins/` within your installation directory. If you don’t find this folder, please control the version of your IDE of choice. After moving the jar, run the IDE and, once it has started, enable the plugin by selecting the menu _Windows -> Show view -> Others -> SocialCDE for Eclipse -> SocialCDE4Eclipse_
 The plugin is composed by two views:
 •	SocialCDE4Eclipse
 •	SocialCDE4Eclipse Browser
