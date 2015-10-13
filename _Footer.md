@@ -1,1 +1,1 @@
-© 2005 Collab 
+© 2005 [Collab](http://collab.di.uniba.it), University of Bari, Italy
