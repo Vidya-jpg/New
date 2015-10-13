@@ -1,1 +1,1 @@
-© 2005 [Collab](http://collab.di.uniba.it), University of Bari, Italy
+© 2015 [Collab](http://collab.di.uniba.it), University of Bari, Italy
