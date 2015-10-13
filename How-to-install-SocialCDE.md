@@ -50,3 +50,5 @@ And below is the result of the query just created. Double-clicking on an issue, 
 ![Query results](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/query%20result.png)
 
 To create a new issue, click on the + button and select _'New task'_, then select what GitHub issue repo you are contributing to, and fill out the form.
+
+![New issue](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20issue.png)
