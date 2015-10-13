@@ -14,9 +14,9 @@ After moving the jar, run the IDE and, once it has started, enable the plugin by
 ![Tree View](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/treeview.png)
 
 The plugin is composed by two views:
-* SocialCDE4Eclipse Views
-* SocialCDE4Eclipse Browser
+* SocialCDE for Eclipse View
+* SocialCDE for Eclipse Browser
 
-The first view is the main view of the plug-in. Feel free to position it where you like, although it works best when pinned to either side of the IDE. The browser is meant to manage the authentication procedure for social network accounts through the OAuth protocol and, therefore, it opens up automatically when needed.
+The first is the main view of the plugin. Feel free to position it where you like, although it works best when pinned to either side of the IDE. The browser is meant to manage the authentication procedure for social network accounts through the OAuth protocol and, therefore, it opens up automatically when needed.
 When it opens up, make sure to arrange (i.e., drag and drop) the browser in the middle panel, where the source file editor is, so that you have more space.
 
