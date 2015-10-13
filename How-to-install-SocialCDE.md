@@ -14,8 +14,8 @@ After moving the jar, run the IDE and, once it has started, enable the plugin by
 ![Tree View](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/treeview.png)
 
 The plugin is composed by two views:
-* SocialCDE for Eclipse View
-* SocialCDE for Eclipse Browser
+* SocialCDEforEclipse View
+* SocialCDEforEclipse Browser
 
 The first is the main view of the plugin. Feel free to position it where you like, although it works best when pinned to either side of the IDE. The browser is meant to manage the authentication procedure for social network accounts through the OAuth protocol and, therefore, it opens up automatically when needed.
 When it opens up, make sure to arrange (i.e., drag and drop) the browser in the middle panel, where the source file editor is, so that you have more space.
@@ -23,7 +23,7 @@ When it opens up, make sure to arrange (i.e., drag and drop) the browser in the 
 ![Full screenshot](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/fullscreenshot.png)
 
 ## GitHub Issue Connector installation
-In order to let SocialCDE4Eclipse works at it bests, you need to add the GitHub issue connector. The task is simple. Go to 'Help -> Install new Software' menu.
+In order to let SocialCDEforEclipse works at it bests, you need to add the GitHub issue connector. The task is simple. Go to 'Help -> Install new Software' menu.
 
 From the next form, select edit the field as shown in the figure below. Then click next and follow the on-screen instructions.
 
