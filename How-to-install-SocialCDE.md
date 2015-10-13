@@ -11,7 +11,7 @@ If you don’t find this folder, please control the version of your IDE of choic
 
 After moving the jar, run the IDE and, once it has started, enable the plugin by selecting the menu _'Windows -> Show view -> Others'_ and then browsing for _'SocialCDE for Eclipse'_ in the tree view.
 
-
+![Tree View](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/treeview.png)
 
 The plugin is composed by two views:
 * SocialCDE4Eclipse Views
