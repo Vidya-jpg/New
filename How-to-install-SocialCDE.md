@@ -31,4 +31,5 @@ From the next form, select edit the field as shown in the figure below. Then cli
 
 After reboot, on the right-hand side of the IDE, you will see a 'Task' panel, as shown in the picture below. Click on the + icon to add the issue repository from one of your GitHub projects.
 
+![Add repo](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20issue%20repo.png)
 
