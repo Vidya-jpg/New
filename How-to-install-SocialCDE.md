@@ -7,12 +7,12 @@ To add SocialCDEforEclipse plugin for Eclipse IDE (simply, a `.jar` file) , you 
 
 ## Plugin installation
 To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `dropins/` within your installation directory (e.g, `c:\users\fabio\eclipse` or `/home/fabio/ecplipse`). 
-If you don’t find this folder, please control the version of your IDE of choice. If you are a Mac OS X user, make sure to righ-click the Eclipse icon and pick from menu the _'Show Package Contents'_ entry to see the folders within.
+If you don’t find this folder, please control the version of your IDE of choice. If you are a Mac OS X user, make sure to right-click the Eclipse icon and pick from menu the _'Show Package Contents'_ entry to see the folders within.
 
 After moving the jar, run the IDE and, once it has started, enable the plugin by selecting the menu _Windows -> Show view -> Others -> SocialCDE for Eclipse -> SocialCDE4Eclipse_
 
 The plugin is composed by two views:
-* SocialCDE4Eclipse
+* SocialCDE4Eclipse Views
 * SocialCDE4Eclipse Browser
 
 The first view is the main view of the plug-in, while the second one was created to manage the authentication procedure in social network accounts through the OAuth protocol (it opens up automatically, when needed).
