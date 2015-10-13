@@ -5,7 +5,7 @@ To add SocialCDEforEclipse plug-in for Eclipse IDE, you have the following two c
 1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
 2. If you have not received an email from the administrator, please download the last version of the plugin (a .jar file) from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
 
-SocialCDEforEclipse works with GitHub repositories, so you need to have git installed on your box. First of all, make sure that you have set correctly the credentials of git. The credentials must match those of your GitHub account. If they are not the same, the plug-in will not work properly. 
+SocialCDEforEclipse works with GitHub repositories, luckily Eclipse already provides support for it. 
 
 ## Git configuration
 
