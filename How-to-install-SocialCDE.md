@@ -15,12 +15,6 @@ The plugin is composed by two views:
 * SocialCDE4Eclipse Views
 * SocialCDE4Eclipse Browser
 
-The first view is the main view of the plug-in, while the second one was created to manage the authentication procedure in social network accounts through the OAuth protocol (it opens up automatically, when needed).
-If you are using Linux as OS and have experience issues with “SocialCDE4Eclipse Browser” view, please make sure that your system matches all the requirements listed on the following page:
-http://www.eclipse.org/swt/faq.php#browserlinux
-In particular, for many users of Ubuntu 12.04, the missing component is the library xulrunner.  To install the library, visit this link: https://developer.mozilla.org/en-US/docs/XULRunner_1.9_Release_Notes
-After downloading the file, follow these steps: <br/>
-1. Drag the file into _/opt_ folder <br/>
-2. Open terminal and change directory to _/opt_ <br/>
-3. Type _tar -xjf xulrunner-1.9.0.17.en-US.linux-i686.tar.bz2_ <br/>
-4. Go into _xulrunner_ folder just created and type _./xulrunner --register-global_ (to install for all users, this must be run as root) or _xulrunner --register-user_ (to install for one user only).
+The first view is the main view of the plug-in. Feel free to position it where you like, although it works best when pinned to either side of the IDE. The browser is meant to manage the authentication procedure for social network accounts through the OAuth protocol and, therefore, it opens up automatically when needed.
+When it opens up, make sure to arrange (i.e., drag and drop) the browser in the middle panel, where the source file editor is, so that you have more space.
+
