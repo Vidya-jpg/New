@@ -45,7 +45,8 @@ Let's try and select all the issues that are open in the current sprint (or mile
 
 ![New query setup](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20query_2.png)
 
-And below is the result of the query just created.
+And below is the result of the query just created. Double-clicking on an issue, will open a form editor, where you can modify the content, comment, etc. as you do on GitHub. Clicking _'Submit'_ will save all the changes locally and on GitHub too. 
 
 ![Query results](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/query%20result.png)
 
+To create a new issue, click on the + button and select _'New task'_, then select what GitHub issue repo you are contributing to, and fill out the form.
