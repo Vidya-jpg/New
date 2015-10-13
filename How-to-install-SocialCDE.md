@@ -45,3 +45,7 @@ Let's try and select all the issues that are open in the current sprint (or mile
 
 ![New query setup](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20query_2.png)
 
+And below is the result of the query just created.
+
+![Query results](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/query%20result.png)
+
