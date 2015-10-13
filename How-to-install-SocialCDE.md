@@ -20,3 +20,5 @@ The plugin is composed by two views:
 The first is the main view of the plugin. Feel free to position it where you like, although it works best when pinned to either side of the IDE. The browser is meant to manage the authentication procedure for social network accounts through the OAuth protocol and, therefore, it opens up automatically when needed.
 When it opens up, make sure to arrange (i.e., drag and drop) the browser in the middle panel, where the source file editor is, so that you have more space.
 
+![Full screenshot](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/fullscreenshot.png)
+
