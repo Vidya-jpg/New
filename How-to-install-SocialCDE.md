@@ -37,3 +37,9 @@ A wizard will drive you through the process. Select _'GitHub Issues'_, then clic
 
 ![Add repo wizard](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20issue%20repo%202.png)
 
+Click _'Finish'_. When asked to add a new query, say no, we will create a query in a moment. Go back and click the + button in the _'Task list'_ panel, as in the picture below. Let's create a new query to list some of the issues already entered in GitHub. Click on _'New query'_, then select the repository for your project.
+
+![New query](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20query.png)
+
+
+
