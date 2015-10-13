@@ -33,3 +33,7 @@ After reboot, on the right-hand side of the IDE, you will see a _'Task list'_ pa
 
 ![Add repo](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20issue%20repo.png)
 
+A wizard will drive you through the process. Select _'GitHub Issues'_, then click next and edit the field in the next screen as shown below. In particular, copy and paste the url of the chosen project in the _'Server'_ field and the field _'Label'_ will be populated automatically. As per _'User ID'_ and _'Password'_, enter your GitHub credentials (make sure to also check _'Save Passwords'_ or you will have to authenticate every time Eclipse is started).
+
+![Add repo wizard](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20issue%20repo%202.png)
+
