@@ -5,7 +5,7 @@ To download SocialCDEforEclipse plugin for Eclipse IDE (simply, a `.jar` file), 
 1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
 1. If you have not received an email from the administrator, please download the last version of the plugin from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
 
-## Plugin installation
+## Plugin Installation
 To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `dropins/` within your installation directory (e.g, `c:\users\fabio\eclipse` or `/home/fabio/ecplipse`). 
 If you don’t find this folder, please control the version of your IDE of choice. If you are a Mac OS X user, make sure to right-click the Eclipse icon and pick from menu the _'Show Package Contents'_ entry to see the folders within.
 
