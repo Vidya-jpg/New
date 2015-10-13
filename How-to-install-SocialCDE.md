@@ -1,9 +1,9 @@
 This plugin requires Eclipse 3.7 (Indigo) and later, or Aptana studio 3+, with Java 7+ already installed.
 
-To add SocialCDEforEclipse plug-in for Eclipse IDE, you have the following two choices:
+To add SocialCDEforEclipse plugin for Eclipse IDE (simply, a `.jar` file) , you have the following two choices:
 
 1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
-2. If you have not received an email from the administrator, please download the last version of the plugin (a .jar file) from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
+2. If you have not received an email from the administrator, please download the last version of the plugin from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
 
 SocialCDEforEclipse works with GitHub repositories, luckily Eclipse already provides support for it. 
 
