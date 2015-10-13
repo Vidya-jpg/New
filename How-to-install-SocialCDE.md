@@ -1,32 +1,9 @@
-This plugin requires Eclipse 3.7 (Indigo) and later, or Aptana studio 3+, with Java 7+ already installed.
+This plugin requires Eclipse 3.7 (Indigo) and later, or Aptana studio 3+, with Java 7+ already installed. SocialCDEforEclipse works with GitHub repositories, luckily Eclipse already provides support for it. 
 
 To add SocialCDEforEclipse plugin for Eclipse IDE (simply, a `.jar` file) , you have the following two choices:
 
 1. If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
 2. If you have not received an email from the administrator, please download the last version of the plugin from [here](https://github.com/collab-uniba/socialcde4eclipse/tree/master/it.uniba.di.socialCDEforEclipse/downloadClient).
-
-SocialCDEforEclipse works with GitHub repositories, luckily Eclipse already provides support for it. 
-
-## Git configuration
-
-To check the git credentials you must find config file. The location of this file depends of two factors:
-
-1. The version of git that you use.
-2. The IDE that you use.
-
-If you use git standalone application, the config file is in user directory (e.g., C:\Users\Floriano) and it is called .gitconfig.    
-If you use Eclipse (with e-git), the config file is file on .git folder on your workspace folder (e.g., _C:\workspace \.git\config_). Please note that if you have created that workspace with Eclipse and you reuse that with Aptana, the latter will just ignore this .git folder.
-Finally, if you use Aptana the config file (called gitconfig) is in /etc subfolder of the selected workspace, that is _&lt;workspace_location&gt;\.metadata\.plugins\com.aptana.portablegit.win32\etc_ 
-Please note that if you have created that workspace with Aptana and you reuse that with Eclipse, the latter will just ignore this .metadata folder.  
-
-Now that you have located your git config gile, open it and look for the followings lines:
-
-_[user]_ <br/>
-	_name_ = _your username_ <br/> 
-	_email_ = _your email_ <br/>
-        _mail_ = _your email_ <br/>
-
-If you don’t find them, just copy and paste the previous lines at the end of file. Remember to enter the same credentials used on GitHub.
 
 ## Plugin installation
 To add SocialCDEforEclipse to Eclipse or Aptana, simply copy the downloaded jar file into the subfolder `plugins/` within your installation directory. 
