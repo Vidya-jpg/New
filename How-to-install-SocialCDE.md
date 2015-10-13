@@ -25,7 +25,7 @@ When it opens up, make sure to arrange (i.e., drag and drop) the browser in the 
 ## GitHub Issue Connector installation
 In order to let SocialCDE4Eclipse works at it bests, you need to add the GitHub issue connector. The task is simple. Go to 'Help -> Install new Software' menu.
 
-From the next form, select edit the field as shown in the figure below.
+From the next form, select edit the field as shown in the figure below. Then click next and follow the on-screen instructions.
 
 ![GitHub Connector](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/github_connector.png)
 
