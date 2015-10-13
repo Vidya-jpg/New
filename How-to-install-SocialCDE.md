@@ -41,5 +41,7 @@ Click _'Finish'_. When asked to add a new query, say no, we will create a query 
 
 ![New query](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20query.png)
 
+Let's try and select all the issues that are open in the current sprint (or milestone, in the GitHub lingo) that have been assigned to me. Try to fill configure your own query taking inspiration from the figure below.
 
+![New query setup](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20query_2.png)
 
