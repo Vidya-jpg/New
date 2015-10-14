@@ -67,5 +67,9 @@ By clicking on an user, you can see the User Timeline, a panel where all the pos
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/UserTimelinePage.png?raw=true" alt="User Timeline panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 7:User Timeline panel</p>
 
-From the navigation pane the user can select to browse the Home Timeline ![home timeline](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/home%20timeline.png), which shows all posts from the users that you are following.  This panel also allows you to edit and share a new post with your followers. 
+From the navigation pane the user can select to browse the Home Timeline ![home timeline](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/home%20timeline.png), which shows all of your posts and the posts from the users that you are following. This panel also allows you to share a new post with your followers. This post will stay on the SocialCDE server and won't be cross-posted on Twitter, Facebook or any other service you may have associated.
+
+<p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/posting.png" alt="Posting"/></p>
+<p align="center" style="font-size:small;font-weight:bold;">Figure 8:Posting message in Home Timeline</p>
+
 The Iteration Timeline ![iteration timeline](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/iteration%20timeline.png) and the Interactive Timeline ![interactive timeline](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/interactive%20timeline.png) have the same structure of the Home Timeline, but they have different functions:  with the Iteration  Timeline you can see the posts of the users that have common work item with you, while with the Interactive Timeline you can see the posts of users that have modified the file currently shown in the editor view of the IDE.
