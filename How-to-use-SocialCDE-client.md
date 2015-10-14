@@ -41,7 +41,7 @@ Furthermore, the home panel shows all the services available on the proxy server
 * Subscribe to a service 
 * Unsubscribe to a service
 * See the features allowed to a service .
-* See owner skills (by clicking on the![skills](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/skills.png?raw=true)image)
+* ~~See owner skills (by clicking on the![skills](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/skills.png?raw=true)image)~~ **Currently not available**
 * Change the password (by clicking on the![settings](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/settings.png?raw=true)image)
 
 
@@ -63,7 +63,7 @@ From the static section you can select the People panel, which shows the followi
 <br/>
 <br/>
 
-By clicking on an user, you can see the User Timeline, a panel where all the posts from the selected user are displayed. On this panel, you can choose to follow, unfollow, and even hide the selected user. Besides, you can see also the user’s skills (currently, only the users-reported skills on LinkedIn are retrieved).
+By clicking on an user, you can see the User Timeline, a panel where all the posts from the selected user are displayed. On this panel, you can choose to follow, unfollow, and even hide the selected user. ~~Besides, you can see also the user’s skills (currently, only the users-reported skills on LinkedIn are retrieved).~~
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/UserTimelinePage.png?raw=true" alt="User Timeline panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 7:User Timeline panel</p>
