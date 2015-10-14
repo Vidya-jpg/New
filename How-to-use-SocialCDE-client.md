@@ -46,6 +46,8 @@ Furthermore, the home panel shows all the services available on the proxy server
 
 In order to subscribe to any service (currently, GitHub, Twitter and Facebook), click on the service tile. A browser view will shop up (you might need to arrange it in the central position to make it larger) and provide your credentials and allow (via OAuth protocol) SocialCDE to have access. Please, note that **your credentials won't be stored either locally by the plugin or remotely by the server**. 
 
+![Facebook connect](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/facebook%20connect.png)
+
 After activating any service (i.e., click on it and authenticate through the browser), you can choose what feature to activate it, according to your privacy needs. The features to select, of course, depend of the structure of the service.  For example, Figure 5 shows the features available for Facebook. Please note that using the same view, you can also choose to unsubscribe the service selected.
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/ServiceSettingPage.png?raw=true" alt="Setting panel of Facebook service"/></p>
