@@ -45,7 +45,8 @@ In order to subscribe to any service (currently, GitHub, Twitter and Facebook), 
 ![Facebook connect](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/facebook%20connect.png)
 <p align="center" style="font-size:small;font-weight:bold;">Figure 5a: Connecting the Facebook service</p>
 
-After successful authentication, click OK in the popup window. A new popup will open, as confirmation of the successful association. Please, use this popup to choose what feature to activate it, according to your **privacy needs** (note that the features to select depend of the structure of the service.  For example, Figure 5b shows the features available for Facebook. Although you are allowed to disable some features, you are strongly encouraged to leave enabled the access to the avatar (i.e., profile image), and the list of people connected to you (i.e., followings and followers), otherwise SocialCDE won't be able to work at its best. Finally, please note that using the same view, you can also choose to unsubscribe the service selected.
+After successful authentication, click OK in the popup window. A new popup will open, as confirmation of the successful association. Please, use this popup to choose what feature to activate it, according to your **privacy needs** (note that the features to select depend of the structure of the service.  For example, Figure 5b shows the features available for Facebook. Although you are allowed to disable some features, you are strongly encouraged to leave enabled the access to the avatar (i.e., profile image), and the list of people connected to you (i.e., followings and followers), otherwise SocialCDE won't be able to work at its best. Finally, please note that using the same view, you can also choose to unsubscribe the service selected. 
+Successfully activated services will now show as 'Status: registered' in green.
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/ServiceSettingPage.png?raw=true" alt="Setting panel of Facebook service"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 5b: Settings panel of Facebook service</p>
@@ -58,6 +59,12 @@ From the static section you can select the People panel ![people](https://github
 * **Followings.** The list of users who you chose to follow.
 * **Followers.** The list of users who have decided to follow you.
 * **Hidden.** The list of users that you don’t want to see either suggested  or shown in the timelines.
+
+To avoid cold start problems, SocialCDE incorporates a recommender system that suggests whom to follow (see Figure 6). To compute the suggestions, the recommender builds a weighted multigraph, whose nodes represent people and links represent connections between them. A link is drawn from current user A to another user B each time one of the following conditions applies:
+
+    B is in the same project team 
+    A is following B in a social network
+    B is a follower of A in a social network 
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/PeoplePage.png?raw=true" alt="People panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 6:People panel</p>
