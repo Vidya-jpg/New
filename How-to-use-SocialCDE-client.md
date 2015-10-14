@@ -53,7 +53,7 @@ After successful authentication, click OK in the popup window. A new popup will 
 ## Getting your feet wet with SocialCDE
 First things first, let's pick the avatar associated with our SocialCDE account. You can pick any image from the services you have enabled. To do so, click on the Profile button in the toolbar (leftmost icon ![avatar](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/defatult%20avatar.png)). A popup will open to let you choose your preferred image. Select one and the click the back arrow (<-) to go back.
 
-From the static section you can select the People panel, which shows the following sections:
+From the static section you can select the People panel ![people](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/people%20page.png), which shows the following sections:
 * **Suggestions.** A list of other registered users, suggested according to several criteria (e.g., friend on Facebook, modified same file, commented an issue reported by another user).
 * **Followings.** The list of users who you chose to follow.
 * **Followers.** The list of users who have decided to follow you.
