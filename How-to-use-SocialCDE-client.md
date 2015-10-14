@@ -1,8 +1,8 @@
+## Setting things up
 When you open “SocialCDEforEclipse View”, the plug-in checks if you are a new user or not. If you are a new user, the plug-in will shows you the registration panel (see Figure 1), otherwise it will shows you the login panel (see Figure 2). Note that the view can be drag to all position of the active page, but it is recommended to put the view on the right-hand side of the editor. 
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/RegistrationPage.png?raw=true" alt="Registration Panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 1:Registration panel</p>
-<br/>
 
 On registration panel, you can create a new account on a proxy server host. This step can be completed only if you have received from the proxy server admin an email containing:
 * The proxy server URL
@@ -15,7 +15,6 @@ If registration succeeds, the plug-in will show the Login page, with all the fie
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/LoginPage.png?raw=true" alt="Login Panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 2:Login panel</p>
-<br/>
 
 On Login panel you can see two checkboxes:
 * Save password
@@ -28,13 +27,11 @@ The Home panel and all other panels (except Login and Registration) are divided 
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/HomePage_section.png?raw=true" alt="Home Panel section"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 3:Home Panel section</p>
-<br/>
 
 Each image in the static section is a link to switch the other panels, plus the logout. 
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/Static_section.png?raw=true" alt="The static section of dynamic panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 4:The static section of dynamic panel</p>
-<br/>
 
 Furthermore, the home panel shows all the services available on the proxy server and their status (activated or not).  Through this panel, an authenticated user, can do the following actions:
 * Subscribe to a service 
@@ -47,13 +44,14 @@ In order to subscribe to any service (currently, GitHub, Twitter and Facebook), 
 
 ![Facebook connect](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/facebook%20connect.png)
 <p align="center" style="font-size:small;font-weight:bold;">Figure 5a: Connecting the Facebook service</p>
-<br/>
 
 After successful authentication, click OK in the popup window. A new popup will open, as confirmation of the successful association. Please, use this popup to choose what feature to activate it, according to your **privacy needs** (note that the features to select depend of the structure of the service.  For example, Figure 5b shows the features available for Facebook. Although you are allowed to disable some features, you are strongly encouraged to leave enabled the access to the avatar (i.e., profile image), and the list of people connected to you (i.e., followings and followers), otherwise SocialCDE won't be able to work at its best. Finally, please note that using the same view, you can also choose to unsubscribe the service selected.
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/ServiceSettingPage.png?raw=true" alt="Setting panel of Facebook service"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 5b: Settings panel of Facebook service</p>
-<br/>
+
+## Getting your feet wet with SocialCDE
+First things first, let's pick the avatar associated with our SocialCDE account. You can pick any image from the services you have enabled. To do so, click on the Profile button in the toolbar (leftmost icon ![avatar](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/defatult%20avatar.png)). A popup will open to let you choose your preferred image. Select one and the click the back arrow (<-) to go back.
 
 From the static section you can select the People panel, which shows the following sections:
 * **Suggestions.** A list of other registered users, suggested according to several criteria (e.g., friend on Facebook, modified same file, commented an issue reported by another user).
@@ -63,13 +61,11 @@ From the static section you can select the People panel, which shows the followi
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/PeoplePage.png?raw=true" alt="People panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 6:People panel</p>
-<br/>
 
 By clicking on an user, you can see the User Timeline, a panel where all the posts from the selected user are displayed. On this panel, you can choose to follow, unfollow, and even hide the selected user. ~~Besides, you can see also the user’s skills (currently, only the users-reported skills on LinkedIn are retrieved).~~
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/UserTimelinePage.png?raw=true" alt="User Timeline panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 7:User Timeline panel</p>
-<br/>
 
 From the navigation pane the user can select to browse the Home Timeline, which shows all posts from the users that you are following.  This panel also allows you to edit and share a new post with your followers. 
 The Iteration Timeline and the Interactive Timeline have the same structure of the Home Timeline, but they have different functions:  with the Iteration  Timeline you can see the posts of the users that have common work item with you, while with the Interactive Timeline you can see the posts of users that have modified the file currently shown in the editor view of the IDE.
