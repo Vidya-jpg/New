@@ -10,14 +10,14 @@ On registration panel, you can create a new account on a proxy server host. This
 * The email address associated to the invitation code.
 
 
-Enter all the aforementioned info in the proper fields; please, note that when you enter the server proxy URL, the plug-in will check if it is online, and, as for the picked username, the plug-in check if it is available or not.
-If registration succeeds, the plug-in will show the Login page, with all the fields already set, except for the chosen password.
+Enter all the aforementioned info in the proper fields; please, note that when you enter the server proxy URL, things may slow down a little bit, as the plugin will start checking whether the server is online and the picked username is available or not.
+If registration succeeds, the plug-in will show the Login page, with all the fields already set, except for the password.
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/LoginPage.png?raw=true" alt="Login Panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 2:Login panel</p>
 <br/>
 <br/>
-On Login panel you can see two checkbox:
+On Login panel you can see two checkboxes:
 * Save password
 * Auto login
 
