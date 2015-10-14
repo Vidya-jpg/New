@@ -62,7 +62,7 @@ From the static section you can select the People panel ![people](https://github
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/PeoplePage.png?raw=true" alt="People panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 6:People panel</p>
 
-By clicking on an user, you can see the User Timeline, a panel where all the posts from the selected user are displayed. On this panel, you can choose to follow, unfollow, and even hide the selected user. ~~Besides, you can see also the user’s skills (currently, only the users-reported skills on LinkedIn are retrieved).~~
+By clicking on an user, you can see the User Timeline, a panel where all the posts from the selected user are displayed. On this panel, you can choose to follow ![follow](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/follow.png), unfollow ![unfollow](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/unfollow.png), and even hide ![hide](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/hide.png) the selected user. ~~Besides, you can see also the user’s skills (currently, only the users-reported skills on LinkedIn are retrieved).~~
 
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/UserTimelinePage.png?raw=true" alt="User Timeline panel"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 7:User Timeline panel</p>
