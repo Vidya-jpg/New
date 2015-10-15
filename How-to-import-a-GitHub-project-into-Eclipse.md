@@ -1,12 +1,6 @@
-### Add a GitHub repository to Eclipse
 Assuming you have created a project in GitHub, these are the steps to import it into Eclipse.
 First, you have to add the git repository to Eclipse. To do so, first make the git repository view visible in Eclipse from the menu _'Window > Show views > Other > Git > Git Repositories'_
 ![add git repo 1](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20git%20repo%201.png)
-
-
-![add git repo 2](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/add%20git%20repo%202.png)
-
-### Clone an existing GitHub project in Eclipse
 
 ![clone git repo 1](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/clone%20git%20repo%201.png)
 
