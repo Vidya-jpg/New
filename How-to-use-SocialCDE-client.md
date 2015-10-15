@@ -81,7 +81,7 @@ From the navigation pane the user can select to browse the Home Timeline clickin
 <p align="center"><img src="https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/posting.png" alt="Posting"/></p>
 <p align="center" style="font-size:small;font-weight:bold;">Figure 8:Posting message in Home Timeline</p>
 
-Other than visualizing the stream of static followings in the Home Timeline, we also designed a _dynamic _type of followings and two other timelines. Unlike static followings, dynamic followings do not require any explicit follow action, as they are automatically added to and removed from a user’s awareness network, depending on two different conditions detailed below.
+Other than visualizing the stream of static followings in the Home Timeline, we also designed a _dynamic_ type of followings and two other timelines. Unlike static followings, dynamic followings do not require any explicit follow action, as they are automatically added to and removed from a user’s awareness network, depending on two different conditions detailed below.
 
 The first condition relates to changes occurring to task assignments (i.e., open issues in GitHub). Therefore, if for example Fabio reported or even commented on a issue assigned to Nicola, the latter will be able to see Fabio’s posts when selecting the Iteration Timeline, activated when you click on this button ![iteration timeline](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/iteration%20timeline.png). The only considered work items are those still **open**. Therefore, work items that have been already closed are not considered when updating the Iteration Timeline.
 
