@@ -6,7 +6,7 @@
 [How to import a GitHub project into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse)
 
 
-### SocialCDE plugin installation & howto
+### SocialCDE plugin installation & user guide
 
 [How to install SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-install-SocialCDE)
 
