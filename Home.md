@@ -1,4 +1,4 @@
-# Socialcde4eclipse wiki
+# Socialcde4eclipse HowTo's wiki
 
 ### GitHub & Eclipse config
 [How to setup a GitHub project and import it into Eclipse](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-setup-a-GitHub-project-and-import-it-into-Eclipse)
