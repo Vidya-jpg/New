@@ -39,6 +39,6 @@ Now, start adding people from the organization to the team.
 
 To conclude, click on _'Repositories'_ as shown in the picture, and associate the repository we created above. You simply have to start typing its name and the repo will appear. After adding it ** make sure you give the team either _Write_ or _Admin_ access rights or they won't be able to modify its content**. 
 
-That's it! Happy GitHub coding!
-
 ![new team 4](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20team%204.png)
+
+That's it! Happy GitHub coding!
