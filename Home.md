@@ -8,6 +8,8 @@
 
 ### SocialCDE plugin installation & user guide
 
-[How to install SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-install-SocialCDE)
+[How to install the SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-install-SocialCDE)
 
-[How to use SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-use-SocialCDE-client)
+[How to use the SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-use-SocialCDE-client)
+
+[How to update the SocialCDE client](https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-update-the-SocialCDE-client)
