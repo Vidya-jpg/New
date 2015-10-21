@@ -1,5 +1,8 @@
 This plugin requires Eclipse 3.7 (Indigo) and later, or Aptana studio 3+, with Java 7+ already installed. SocialCDEforEclipse works with GitHub repositories, luckily Eclipse already provides support for handling GitHub code, but not GitHub issues, that is, the database where you create tickets for managing your development. 
 
+#### Note about Aptana Studio
+You need to install Aptanta Studio as an Eclipse plugin, not as standalone app. So first download Eclipse from [eclipse.org/downloads](http://www.eclipse.org/downloads/), then follow [these simple steps](http://download.aptana.com/studio3/plugin/install) to install Aptana Studio plugins in your Eclipse installation.
+
 ## Plugin Download
 To download SocialCDEforEclipse plugin for Eclipse IDE (simply, a `.jar` file), you have the following two choices:
 * If you have received an email from the administrator, please follow the instructions provided in the e-mail. After downloading the client, please continue to read this guide from the next step.
