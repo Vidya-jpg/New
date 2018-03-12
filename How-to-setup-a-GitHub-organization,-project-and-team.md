@@ -13,7 +13,7 @@ In order to finish the creation, add the other member of your team to the organi
 
 ![new org 3](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20org%203.png)
 
-## Crete your Project
+## Create your Project
 Now that your organization has been created, it is time to create a project repository and a team. Let's start from the repository. From the main page of the organization, click on the _'Repositories'_ tab and then on the button _'+ New Repository'_.
 
 ![new project repo 1](https://github.com/collab-uniba/socialcde4eclipse/blob/master/wikiImage/new%20repo%201.png)
