@@ -10,15 +10,26 @@ public class ReportTest {
 	@Test
 	public void AddComparisonCheck()
 	{
+		try 
+		{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\vbathija\\source\\git repository\\packages\\Selenium.WebDriver.ChromeDriver.2.45.0\\driver\\win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		CommonActions_Login cl=new CommonActions_Login();
 		cl.Login(driver);
 		cl.Account_Select(driver);
-		HomePage hp=new HomePage();
-		hp.NavigateToAnalyze(driver, "Benchmark Bug Validation");
+		
+			Thread.sleep(5000);
+		
+		HomePage.SearchInHomePage(driver, "Benchmark Bug Validation");
+		HomePage.NavigateToAnalyze(driver, "Benchmark Bug Validation");
 		CommonActions_Analyze ca=new CommonActions_Analyze();
 		ca.AddMySurveyComparison(driver);
 	}
+		catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+}
 
 }

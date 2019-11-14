@@ -15,7 +15,7 @@ public class CommonActions_Login {
 	public static WebElement Username;
 	public static WebElement Password;
 	public static String username="vbathija@cebglobal.com";
-	public static String password="Sairam@34";
+	public static String password="Sairam@78";
 	public static WebElement Signin;
 	public static WebElement Account;
 	public static WebElement SelectAccount;

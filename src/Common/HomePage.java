@@ -8,13 +8,20 @@ import org.openqa.selenium.WebElement;
 
 public class HomePage {
 	public static WebElement Survey;
+	public static WebElement SurveySearch;
 
-	public void NavigateToAnalyze(WebDriver driver,String SurveyName)
+	public static void NavigateToAnalyze(WebDriver driver,String SurveyName)
 	{
-		
+		CommonActions_UI.ClickElementwithXpath(driver, "//a[contains(text(),'"+SurveyName+"')]");
+	}
+	public static void SearchInHomePage(WebDriver driver, String SurveyName)
+	{
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		Survey=driver.findElement(By.xpath("//a[contains(text(),SurveyName)]"));
-		Survey.click();
+		CommonActions_UI.ClickElementwithID(driver,"my-text-field" );
+		//SurveySearch.sendKeys(SurveyName);
+		SurveySearch=driver.findElement(By.id("my-text-field"));
+		SurveySearch.sendKeys(SurveyName);
+		CommonActions_UI.ClickElementwithCssSelector(driver, ".shl-icon_search");
 	}
 	
 	
